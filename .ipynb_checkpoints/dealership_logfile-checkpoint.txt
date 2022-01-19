@@ -1,0 +1,2 @@
+09:20:59-Jan-19-2022,ETL Job Started
+09:20:59-Jan-19-2022,Extract phase Started
